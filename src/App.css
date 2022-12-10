@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.section{
+  display: inline-flex;
+  margin-top: 30px;
+}
+
+.weather{
+  margin: 20px;
+  justify-content: center;
+}
